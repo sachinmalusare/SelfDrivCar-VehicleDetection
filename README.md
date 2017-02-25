@@ -14,7 +14,7 @@ The steps of this project are as follows:
 * Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
 * Run the entire pipeline on a sample video.
 
-
+## For details read VehicleDetection-Project5.pdf
 
 # Please look at the video output at 
 https://www.youtube.com/watch?v=wcQMWtootdU&list=PL7OdKZN5JSqvrvCWj4cX7J3dtac83Tw5U&index=2
